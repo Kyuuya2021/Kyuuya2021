@@ -22,6 +22,7 @@
   <a href="https://zenn.dev/YOUR_ZENN_ID"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
   <a href="https://x.com/YOUR_X_ID"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100093034111137"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:yuuy1230@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Kyuuya2021"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -31,13 +32,97 @@
 
 ---
 
+## 🏅 Signature Highlights
+
+<div align="center">
+
+| 🥇 | 🧠 | 🌱 | 🇺🇸 |
+| :---: | :---: | :---: | :---: |
+| **Kosen Open Innovation Challenge 2021**<br>最優秀チーム | **LEAP DAY 2024**<br>日本総研賞 ＋ 未来スタジオ賞 | **高専キャリア冬の全国大会 2024**<br>起業部ピッチ 3冠 | **Stanford University**<br>d.school修了 / School of Engineering 研究員 |
+
+</div>
+
+<div align="center">
+  <sub>🌟 日本国内外で複数の受賞・選抜・アンバサダー経験あり — <a href="#-awards--recognition">受賞歴の全リストはこちら↓</a></sub>
+</div>
+
+---
+
 ## 👋 About Me
 
-茨城工業高等専門学校（電気・電子系）出身。パワーエレクトロニクス分野で自動運転EV・ドローン開発に取り組んだのち、**Stanford School of Engineering 外部特別研究員**としてアメリカでの研究活動を経験。現在は **株式会社プライア CTO** として「アート×技術×アントレプレナーシップ」の領域で事業を展開しています。
+茨城工業高等専門学校（電気・電子系）出身。在学中からパワーエレクトロニクス分野で自動運転EV・ドローン開発に取り組み、**Stanford School of Engineering 外部特別研究員**としてアメリカでの研究活動を経験。現在は **株式会社プライア CTO** として「アート×技術×アントレプレナーシップ」の領域で事業を展開しています。
 
 日本から世界へ。常に最新技術を取り入れ、新たな挑戦に果敢に取り組むことが、私の強みです。
 
-> 💭 **Vision**　誰もが前向きに生きていける社会の実現を。新たな職業、「**革命家**」を目指して。
+> 💭 **Vision** — 誰もが前向きに生きていける社会の実現を。新たな職業、「**革命家**」を目指して。
+
+---
+
+## 🏆 Awards & Recognition
+
+### 🌟 Major Awards — 主要受賞
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🥇 Kosen Open Innovation Challenge 2021**<br>
+<sub>powered by JICA</sub><br>
+**最優秀チーム賞**
+
+</td>
+<td width="50%" valign="top">
+
+**🏅 LEAP DAY 2024（沖縄）**<br>
+<sub>日本総研賞 ＋ 未来スタジオ賞 の **2冠**</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🥇 高専キャリア冬の全国大会2024**<br>
+<sub>起業部ピッチ</sub><br>
+**優勝・オーディエンス賞・DEEPCORE賞 の 3冠**
+
+</td>
+<td width="50%" valign="top">
+
+**🏆 STATION Ai STAPS（2025）**<br>
+<sub>学生ビジネスプランピッチコンテスト</sub><br>
+**優秀賞**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏆 全国高専プログラミングコンテスト2023**<br>
+**敢闘賞**
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 全国高等専門学校ディープラーニングコンテスト 2023**<br>
+**二次審査通過**
+
+</td>
+</tr>
+</table>
+
+### 🚀 Selections & Ambassadorships — 選抜・アンバサダー
+
+- 🌐 **Google AI 学生アンバサダー** 就任（2025.08 –）
+- 🏠 **積水ハウス InnoCom Square 3rd Lab アンバサダー** 選出（2025 –）
+- 🇺🇸 **JETRO J-StarX** 起業家派遣プログラム **Stanford コース** 選出（2025.06）
+- 🎓 **Stanford d.school プログラム** 修了（2025.09）
+- 🔬 **Stanford University School of Engineering** 研究員生留学（2024）
+- 🦄 **Stanford University** 外部特別研究員（2023 –）
+- 💎 **Code Chrysalis & Kloud スカラシッププログラム** — シリコンバレー式ソフトウェアエンジニアリング育成プログラム 選出・修了（2024）
+- 🌱 **STAPS（学生起業家育成プログラム）** 選抜（2025.01）
+- 🐸 **Hitachi Frogs 6期生** 選抜（2024）
+- 👨‍🏫 **茨城高専 AI未来探究プロジェクト** PM・TA 主導（2024）
+- 🇷🇼 **JICA・Deloitte 支援下 ルワンダ現地検証実施** — コーヒー農地管理プロダクト（2023）
 
 ---
 
@@ -45,69 +130,20 @@
 
 | Role | Organization | Since |
 | --- | --- | --- |
-| 🧠 CTO | 株式会社プライア | 2022 – |
-| 📊 Project Manager | 株式会社FROGS | 2025.04 – |
-| 🌱 Student Ambassador | **Google AI** | 2025.08 – |
+| 🧠 **CTO** | **株式会社プライア** | 2022 – |
+| 🌐 Student Ambassador | **Google AI** | 2025.08 – |
 | 🏠 Ambassador | 積水ハウス InnoCom Square **3rd Lab** | 2025 – |
-| 🎓 Student | ZEN大学 知能情報社会学部 / 慶應義塾大学 経済学部（通信教育課程） | 2025 – |
+| 🎓 Student | ZEN大学 知能情報社会学部 ／ 慶應義塾大学 経済学部（通信教育課程） | 2025 – |
 
 ---
 
 ## 🚀 What I'm Building
 
 - 🎨 **アート領域**：日本の画家・作品を守る画商事業の運営
-- 💻 **受託開発**：Web・モバイル・デスクトップアプリ開発（`newton-cafe` 系プロジェクトなど）
-- ☕ **農業×AI**：コーヒー農園管理システム（ルワンダ現地検証実施）
-- 🤖 **AI関連サービス**：複数プロジェクトで開発推進中
+- 💻 **受託開発**：Web・モバイル・デスクトップアプリケーション
+- ☕ **農業 × AI**：コーヒー農園管理システム（ルワンダ現地検証実施）
+- 🤖 **AIサービス**：複数プロジェクトで開発推進中
 - 📈 **株式運用**：事業と並走する資産運用
-
----
-
-## 🌍 Global Experience
-
-- 🇺🇸 **Stanford University**：d.school プログラム修了（2025）／ School of Engineering 研究員生留学（2024）／ 外部特別研究員（2023–）
-- 🇷🇼 **Rwanda**：JICA・Deloitte サポート下で、コーヒー農地管理システムの現地検証を実施（2023）
-- 🇯🇵→🌏 **JETRO J-StarX**：起業家派遣プログラム Stanford コース 選出（2025.06）
-- 🇺🇸 **Silicon Valley**：Code Chrysalis & Kloud スカラシッププログラム修了（2024）
-
----
-
-## 🏆 Awards & Recognition
-
-<details open>
-<summary><strong>2025</strong></summary>
-
-- 🥇 **STATION Ai 学生ビジネスプランピッチコンテスト STAPS** 優秀賞（3月）
-- 🌟 **STAPS** 学生起業家育成プログラム 選抜（1月）
-
-</details>
-
-<details open>
-<summary><strong>2024</strong></summary>
-
-- 🥇 **高専キャリア冬の全国大会2024 起業部ピッチ** 3冠（優勝・オーディエンス賞・DEEPCORE賞）
-- 🏅 **LEAP DAY 2024**（沖縄）2冠（日本総研賞・未来スタジオ賞）
-- 🐸 **Hitachi Frogs 6期生** 選抜
-- 🎓 **Code Chrysalis & Kloud** シリコンバレー式ソフトウェアエンジニアリング育成プログラム 選出・修了
-- 🔬 **茨城高専AI未来探究プロジェクト** PM・TA 主導
-
-</details>
-
-<details>
-<summary><strong>2023</strong></summary>
-
-- 🏆 **全国高専プログラミングコンテスト2023** 敢闘賞
-- 🧠 **全国高等専門学校ディープラーニングコンテスト** 二次審査通過
-- 🌱 **JICA・Deloitte** 支援下でルワンダ現地プロダクト検証
-
-</details>
-
-<details>
-<summary><strong>2021</strong></summary>
-
-- 🥇 **Kosen Open Innovation Challenge 2021 powered by JICA** — 最優秀チーム
-
-</details>
 
 ---
 
@@ -196,12 +232,14 @@
 
 ---
 
-## 📫 Contact
+## 📫 Get in Touch
 
 お仕事のご相談・共創のお話・取材など、お気軽にどうぞ。通常3日以内に返信します。
 
-<!-- 公開したくない場合は削除してください -->
-📧 **yuuy1230@gmail.com**
+<p>
+  <a href="mailto:yuuy1230@gmail.com"><img src="https://img.shields.io/badge/Email-yuuy1230@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100093034111137"><img src="https://img.shields.io/badge/Facebook-Yuya%20Kawasome-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 ---
 
