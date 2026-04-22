@@ -1,0 +1,27 @@
+# Zennの最新記事をREADMEに自動反映するワークフロー
+# 配置場所: .github/workflows/blog-post-workflow.yml
+# 動作: 1日1回、Zennの最新5記事をREADMEの <!-- BLOG-POST-LIST:START --> 〜 END ブロックに挿入
+
+name: Latest blog post workflow
+on:
+  schedule:
+    # 毎日 JST 9:00 (UTC 0:00) に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # ⚠️ YOUR_ZENN_ID を自分のZennユーザー名に変更してください
+          feed_list: "https://zenn.dev/YOUR_ZENN_ID/feed"
+          max_post: 5
+          # Qiita も追加したい場合は下記のように複数指定可能
+          # feed_list: "https://zenn.dev/YOUR_ZENN_ID/feed,https://qiita.com/YOUR_QIITA_ID/feed"
