@@ -6,6 +6,7 @@
 ## ファイル
 
 - [`portfolio-brief.md`](./portfolio-brief.md) — 全体ブリーフ (第2版)。中核思想 (Seneca/Stoic 軸)、Hero (確定)、Voice、About、Library、Interactive Seeds、ChatGPT 壁打ちブリーフ。**まずここから。**
+- [`compressed-brief.md`](./compressed-brief.md) — 圧縮版ブリーフ (A4 1〜2 枚)。ChatGPT / Claude にそのまま貼って **1 ページ静的プロトタイプ** を生成させるためのコピペ用テンプレ。
 - [`works-episodes.md`](./works-episodes.md) — 各プロジェクトの「きっかけ / やっていること / いま面白いところ / otium との接続」を書き溜める作業ファイル。
 - [`bookshelf.md`](./bookshelf.md) — Library セクション用。本 (古典/実用/小説/漫画) と YouTube/Podcast を Now/Influences/Reread の3ステータスで管理。
 
