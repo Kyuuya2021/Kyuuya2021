@@ -9,21 +9,34 @@
 - [`works-episodes.md`](./works-episodes.md) — 各プロジェクトの「きっかけ / やっていること / いま面白いところ / otium との接続」を書き溜める作業ファイル。
 - [`bookshelf.md`](./bookshelf.md) — Library セクション用。本 (古典/実用/小説/漫画) と YouTube/Podcast を Now/Influences/Reread の3ステータスで管理。
 
-## 第2版での確定事項
+## Phase 1 (位置づけと声) — 完了
 
 - **Hero**: 「忙しさは、生きていることではない。生きるための『暇』を、世の中に増やしに行っている。」
 - **思想軸**: セネカ『人生の短さについて』(De Brevitate Vitae) / ストア哲学
 - **Voice キーワード**: 静かな強度 / 反・忙しさ / 古典と現場
 - **Works 優先順**: 1.AI/個人開発 → 2.プライア → 3.学業 → 4.コーヒー&カフェ → 5.アート&画商 → 6.習慣
 - **Library セクション** を中核セクションのひとつとして採用 (本棚 + YouTube/Podcast)
+- **デザイン言語**: 勢いと重さを線とタイポで / 色は淡め (ベージュ・グレー・白黒) / 太め明朝 + 古典セリフ + 手書き感 / 木版画・浮世絵は不採用 / fumino.b-rave.tokyo を参考 (ただしポップは外す)
+- **ChatGPT ブリーフ v4** が Phase 2 投入可能な状態 (portfolio-brief.md 第12節)
 
-## 進め方
+## 現在地: Phase 2 へ移行
 
-1. `portfolio-brief.md` 末尾「次に答えてほしい質問」 (第15節) に、答えやすいものから返す。
-2. `bookshelf.md` の各カテゴリに、Influences から 1〜3 個ずつ本/チャンネルを書き込む。
-3. `works-episodes.md` の優先順 1 位 (AI サービス開発) から、本人の言葉でエピソードを書く。
-4. portfolio-brief.md 第12節の ChatGPT ブリーフ v2 を ChatGPT に渡してビジュアル方向を探索。
-5. 結果が固まったら Phase 3 (Claude.ai でデザイン実装) に進む。
+```
+✓ Phase 1: 位置づけ・声・思想・デザイン方向       ← 完了
+→ Phase 2: ChatGPT 画像生成で視覚を探索           ← ★ 今ここ
+  Phase 3: Claude design でコンポーネント化
+  Phase 4: Cursor + Claude Code CLI で本実装
+  Phase 5: 公開後の運用
+```
+
+## 次のアクション
+
+1. **Phase 2 投入**: `portfolio-brief.md` 第12節のブリーフ v4 をコピーして ChatGPT に貼る。5〜10 ラウンド回して画像を集める。
+2. **並走で詰める**:
+   - 本棚 Now (今読んでる本) — `bookshelf.md`
+   - 偉人の杜 (構想) の中身 — `works-episodes.md`
+   - Works 1 位 (AI/個人開発) のエピソード — `works-episodes.md`
+3. ChatGPT 出力が集まったら、戻ってきて一緒に方向を絞り込む。
 
 ## なぜこの段階を踏むのか
 
