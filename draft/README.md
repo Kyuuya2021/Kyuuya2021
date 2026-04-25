@@ -5,15 +5,24 @@
 
 ## ファイル
 
-- [`portfolio-brief.md`](./portfolio-brief.md) — 全体ブリーフ。サイトのゴール、オーディエンス、Voice、Hero コピー候補、ChatGPT への壁打ちブリーフまで。**まずここから。**
-- [`works-episodes.md`](./works-episodes.md) — 各プロジェクトの「きっかけ / やっていること / いま面白いところ」を書き溜める作業ファイル。
+- [`portfolio-brief.md`](./portfolio-brief.md) — 全体ブリーフ (第2版)。中核思想 (Seneca/Stoic 軸)、Hero (確定)、Voice、About、Library、Interactive Seeds、ChatGPT 壁打ちブリーフ。**まずここから。**
+- [`works-episodes.md`](./works-episodes.md) — 各プロジェクトの「きっかけ / やっていること / いま面白いところ / otium との接続」を書き溜める作業ファイル。
+- [`bookshelf.md`](./bookshelf.md) — Library セクション用。本 (古典/実用/小説/漫画) と YouTube/Podcast を Now/Influences/Reread の3ステータスで管理。
+
+## 第2版での確定事項
+
+- **Hero**: 「忙しさは、生きていることではない。生きるための『暇』を、世の中に増やしに行っている。」
+- **思想軸**: セネカ『人生の短さについて』(De Brevitate Vitae) / ストア哲学
+- **Voice キーワード**: 静かな強度 / 反・忙しさ / 古典と現場
+- **Works 優先順**: 1.AI/個人開発 → 2.プライア → 3.学業 → 4.コーヒー&カフェ → 5.アート&画商 → 6.習慣
+- **Library セクション** を中核セクションのひとつとして採用 (本棚 + YouTube/Podcast)
 
 ## 進め方
 
-1. `portfolio-brief.md` の末尾「直近で答えてほしい 7 つの質問」に、答えやすいものから書き込む（このファイルを直接編集して OK）。
-2. それを元に Voice と Hero コピーを 1 案に絞り込む。
-3. `works-episodes.md` に、優先度の高い作品から本人の言葉で書き込む。
-4. 第10節のブリーフを ChatGPT に渡してビジュアル方向を探索。
+1. `portfolio-brief.md` 末尾「次に答えてほしい質問」 (第15節) に、答えやすいものから返す。
+2. `bookshelf.md` の各カテゴリに、Influences から 1〜3 個ずつ本/チャンネルを書き込む。
+3. `works-episodes.md` の優先順 1 位 (AI サービス開発) から、本人の言葉でエピソードを書く。
+4. portfolio-brief.md 第12節の ChatGPT ブリーフ v2 を ChatGPT に渡してビジュアル方向を探索。
 5. 結果が固まったら Phase 3 (Claude.ai でデザイン実装) に進む。
 
 ## なぜこの段階を踏むのか
